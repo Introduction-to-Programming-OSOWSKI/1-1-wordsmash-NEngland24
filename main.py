@@ -2,4 +2,4 @@
 def wordsmash(x, y):
     return x + y
 
-print(wordsmash("cat", "dog"))
+wordsmash("cat", "dog")
