@@ -1,3 +1,3 @@
 #WRITE YOUR CODE HERE
-def wordsmash(x, y):
-    return x + y
+def wordSmash(a, b):
+    return a + b
